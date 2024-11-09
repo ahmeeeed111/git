@@ -18,7 +18,8 @@ public class Main {
     	 String next;
     	 while((next=reader.readLine())!=null)
     	 {
-    		 System.out.println(next); 
+    		 System.out.println(next);
+			 System.out.println("Version1"); 
     	 }
     	 
      }
