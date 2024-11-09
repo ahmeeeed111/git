@@ -19,7 +19,7 @@ public class Main {
     	 while((next=reader.readLine())!=null)
     	 {
     		 System.out.println(next);
-			 System.out.println("Version1"); 
+			 System.out.println("Version3"); 
     	 }
     	 
      }
